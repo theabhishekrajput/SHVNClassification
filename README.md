@@ -4,6 +4,6 @@ SVHN is a real-world image dataset for developing object recognition algorithms 
 
 https://www.kaggle.com/sasha18/street-view-house-nos-h5-file
 
-Skills and Tools
+## Skills and Tools
 
 Neural Networks, Deep Learning, Keras, Image Recognition
